@@ -1,0 +1,8 @@
+[submodule "INNOVAHN"]
+	path = INNOVAHN
+	url = https://github.com/Innovahn/INNOVAHN10.git
+	branch = master
+[submodule "addons_fundacionhn"]
+	path = addons_fundacionhn
+	url = https://github.com/Innovahn/addons_fundacion.git
+	branch = master
